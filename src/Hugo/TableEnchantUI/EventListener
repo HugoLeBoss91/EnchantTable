@@ -5,7 +5,6 @@
 namespace EnchantTable;
 
 
-
 use pocketmine\block\Block;
 
 use pocketmine\event\Listener;
@@ -35,7 +34,6 @@ use jojoe77777\FormAPI\SimpleForm;
 
 
 class EventListener implements Listener {
-
 
 
     private $plugin;
