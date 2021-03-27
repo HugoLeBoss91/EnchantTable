@@ -1,5 +1,5 @@
 name: EnchantTable
 version: 1.0.0
-main: EnchantTable\Main
+main: Hugo\TableEnchantUI\Main
 api: 3.0.0
 author: Hugo
